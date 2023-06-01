@@ -1,3 +1,7 @@
+# default uploads and downloads folder
+uploads/
+downloads/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
